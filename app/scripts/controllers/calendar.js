@@ -1,6 +1,5 @@
 'use strict';
 
-
 angular.module('newCalendarApp')
   .controller('CalendarCtrl', function($scope) {
     $scope.template = 'calendar',

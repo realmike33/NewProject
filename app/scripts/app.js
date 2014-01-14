@@ -5,7 +5,6 @@ angular.module('newCalendarApp', [
   'ngRoute',
   'ui.date',
   'ngAnimate'
-
 ])
   .config(function ($routeProvider) {
     $routeProvider

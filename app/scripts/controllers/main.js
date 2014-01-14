@@ -1,5 +1,6 @@
 'use strict';
 
+
 angular.module('newCalendarApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
